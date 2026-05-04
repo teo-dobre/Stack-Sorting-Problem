@@ -8,9 +8,9 @@ The only allowed operation is moving the top crate from one stack to another. Th
 
 The Solve() method receives three arrays representing the initial state of the stacks and must return a sequence of moves. Each move is represented as a string in the following format:
 
-'''
+```
 "A B"
-'''
+```
 
 This indicates moving the top crate from stack A to stack B. Applying all returned moves sequentially should result in stack A being correctly sorted.
 
