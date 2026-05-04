@@ -1,4 +1,4 @@
-This is a problem I had trouble with in a programming test.
+This problem is based on a programming test I encountered, which I later revisited and solved.
 
 ## Description
 
